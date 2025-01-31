@@ -1,0 +1,1 @@
+>> This folder contains pics of different plots achieved while model selection and training.
